@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Data Analyst
 -------------------
 
-Senior data analyst with experience in ETL tools, Databases, Python and more...
+Experience in ETL tools, Databases, Python and more...
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [dhaneshkr006@gmail.com](mailto:dhaneshkr006@gmail.com)
